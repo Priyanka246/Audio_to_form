@@ -1,0 +1,4 @@
+SPEECH_KEY="149ef53a9f5f47c39bd201ba36966f13"
+SPEECH_REGION="uksouth"
+LANGUAGE_ENDPOINT="https://maialanguage.cognitiveservices.azure.com/"
+LANGUAGE_API_KEY="74a923d95b0a42d585a5d5e5ae6bf708"

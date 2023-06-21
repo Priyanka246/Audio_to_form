@@ -1,0 +1,78 @@
+.main-container {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.speech-block {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.speech-block p {
+    margin-left: 12px;
+    margin-bottom: 0;
+
+}
+
+.fa-microphone {
+    color: #14A76C;
+}
+
+.fa-microphone:hover {
+    color: #0c6e47;
+}
+
+.fa-file-audio {
+    color: #FF652F;
+}
+
+.fa-file-audio:hover {
+    color: #d44916;
+}
+
+.output-display {
+    background-color: #383b4b;
+    height: 100%;
+    min-height: 50px;
+    max-height: 340px;
+    overflow: auto;
+    padding: 12px;
+}
+
+.fas,
+.fa {
+    cursor: pointer;
+}
+
+.background {
+    background-color: #272727;
+    color: #747474;
+}
+
+.input-group {
+    margin-bottom: 16px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: white;
+}
+
+.input-group input,
+.input-group textarea {
+    width: 100%;
+    display: block;
+}
+
+.card-block {
+    background-color: #63646866;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.heading {
+    color: white;
+    margin-bottom: 16px;
+}
